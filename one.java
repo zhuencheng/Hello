@@ -24,3 +24,5 @@ private static LinkedList<File> taskQueue = new LinkedList<File>();
                     taskQueue.addLast(file); 
                 } 
             } 
+        }
+    }
